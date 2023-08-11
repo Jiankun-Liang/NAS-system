@@ -1,0 +1,12 @@
+#How to connect the user？
+#Example:如何访问NAS系统中的test_user01用户，密码是Chenlab2023？
+
+方法一：
+此电脑中文件夹地址栏输入：\\10.30.79.102
+ENTER(回车)
+然后输入用户名：test_user01以及密码Chenlab2023即可访问。
+
+方法二：
+在浏览器的地址栏输入：10.30.79.102
+ENTER(回车)
+然后输入用户名：test_user01以及密码Chenlab2023即可访问。
