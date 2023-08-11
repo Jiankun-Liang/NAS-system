@@ -1,2 +1,2 @@
 # NAS-system
-For data sorage and file share
+Data sorage and file share for Chen-Lab
